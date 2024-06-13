@@ -1,16 +1,9 @@
 Pasos para crear el código
 
-lo primero, como bien sugirieron las profesoras, fue hacer un pequeño boceto de qué quería contar y como. Para esto dividí el CV en 5. La primera seccion no sería más que mi nombre y algunos datos personasles.
-para las siguientes secciones utilicé la opcion de listas ("<li>") para ordenar el CV
-La primera seccion en esta lista fue mi paso por la RADIO UC, la que a su vez dividí en dos ("<ul>, <li>") para seguir con el sitio ordenado
-La segunda seccion es sobre mi ayudantías, donde nuevamente usé el mismo código para dividir las dos dentro de esta seccion.
-Luego de esto viene la seccion del Km cero y despues la seccion del diario enfoque, ambas instancias en las que he podido explorar y trabajar en prensa escrita.
-Por ultimo quise incluir un hobby personal como es el tatuaje. 
+Lo primero que hice fue mirar ejemplos de CVs. En eso, me fijé que un ammigo tiene el suyo hecho con una barra lateral a la izquierda. En esta barra él puso la informacion concreta, sus experiencias de trabajo y su contacto. En la otra seccion (cuerpo) desarrolló con más detalle esas experiencias y las referenció.
+Yo decidí hacer lo mismo para mi cv, así que tomé el código que realicé para la entrega anterior y, con ayuda de Chat Gpt para que me dijera como hacerlo, agregué la barra lateral y de ahi fuí agregandole etiquetas, partiendo por el ancho de la barra (width), el color, la letra y toda la información.
+Teniendo la barra lista, seguí con la parte de la derecha, la que es muy similar a mi entrega anterior, asi que no tuve que hacerle muchos cambios.
 
-Para empezar el sitio se utilizó (!) para luego agregar título, nombre y otros elementos principales.
-Luego se indicó la tipografía con font-family.
-
-
-Se creo una lista con las experiencias universitarias utilizando ("<li>")
+Tuve un problema con este código, que fue que no me era posible scrolear la página. Le pregunte al chat por qué era y me dio la solucion, la que agregué pertinentemente. 
 
 [Ir al sitio web](https://josegubbins.github.io/Tarea-03-CV/)  
