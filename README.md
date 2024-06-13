@@ -6,4 +6,4 @@ Teniendo la barra lista, seguí con la parte de la derecha, la que es muy simila
 
 Tuve un problema con este código, que fue que no me era posible scrolear la página. Le pregunte al chat por qué era y me dio la solucion, la que agregué pertinentemente. 
 
-[Ir al sitio web](https://josegubbins.github.io/Tarea-03-CV/)  
+[Ir al sitio web](https://josegubbins.github.io/Tarea-03b/)  
